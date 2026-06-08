@@ -85,3 +85,17 @@ If you like this project:
 
 📌 Note
 This project is developed for academic + institutional placement management purposes and is continuously improving.
+
+## ✍️ About Developer  
+<h3 align="center">Rima Kalita</h3>
+<p align="center">
+  <a href="https://github.com/Rima-Kalita">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rima-kalita-241414221/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+	<a href="https://www.instagram.com/kalopsia.rim_?igsh=MWFkN3pyd3Z4YWdncg==">
+    <img src="https://img.shields.io/badge/Instagram-F72D3B?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
