@@ -64,24 +64,6 @@ Student
 Admin
 Placement Coordinator
 
-📁 Project Structure
-PlaceMATE/
-│
-├── client/                # React Frontend
-│   ├── src/
-│   ├── components/
-│   └── pages/
-│
-├── server/                # Node + Express Backend
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   └── middleware/
-│
-├── config/
-├── .env
-└── README.md
-
 🚀 Future Enhancements
 📩 Email notifications for job alerts
 📊 Placement analytics dashboard
