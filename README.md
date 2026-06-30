@@ -1,101 +1,158 @@
-# PlaceMate
-🚀 PlaceMATE
-📊 MERN Stack Placement Management System
+# JobConnect
+🚀 JobConnect  
+🤖 AI-Powered Job Recommendation Platform
 
-🌐 Overview
-PlaceMATE is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application designed to digitalize and streamline institutional placement management.
-It provides a secure, role-based platform where only verified institution members can access and manage placement-related activities.
+---
 
-🎯 Key Highlights
-🏫 Institution-based secure system (Enrollment ID authentication)
-👨‍🎓 Student profile & resume management system
-💼 Job posting & application workflow
-🧑‍💼 Admin & Placement Coordinator dashboard
-🔐 Role-based access control system
-⚡ Fully REST API-driven architecture
-🧠 Problem It Solves
+## 🌐 Overview
 
-Traditional placement systems are often:
+JobConnect is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application that helps students discover the most relevant job opportunities using an AI-powered recommendation system.
 
-Manual 📄
-Unorganized 📉
-Time-consuming ⏳
+The platform provides a modern, role-based environment where students can explore personalized job recommendations, while companies can post openings and manage applications efficiently.
 
-PlaceMATE solves this by centralizing all placement operations into one secure digital platform.
+---
 
-🛠️ Tech Stack
-Frontend
-React.js
-HTML5
-CSS3
-JavaScript
-Backend
-Node.js
-Express.js
-Database
-MongoDB
-Tools
-REST APIs
-Git & GitHub
-Postman (API testing)
+## 🎯 Key Highlights
 
-✨ Features
-👨‍🎓 Student Module
-Secure login using Enrollment Number
-Profile creation & updates
-Resume upload
-Apply for jobs
+- 🤖 AI-powered job recommendation system
+- 🎯 Skill-based job matching algorithm
+- ⚡ Real-time search & filtering (500+ jobs instantly)
+- 💼 Student dashboard with saved jobs & application tracking
+- 🏢 Company Admin dashboard for job management
+- 🔔 Real-time notifications using Socket.io
+- 🎨 Modern responsive UI with Framer Motion animations
 
-🧑‍💼 Admin Module
-Manage students database
-Post job opportunities
-Track applications
+---
 
-🏫 Placement Coordinator Module
-Monitor placement activities
-Control student eligibility
-Oversee job postings
+## 🧠 Problem It Solves
 
-🔐 Authentication System
-Institution-restricted access
-Enrollment number-based identity system
-Role-based authorization:
-Student
-Admin
-Placement Coordinator
+Finding relevant jobs can be:
 
-🚀 Future Enhancements
-📩 Email notifications for job alerts
-📊 Placement analytics dashboard
-🤖 AI-based resume suggestions
-🔔 Real-time updates for applications
-☁️ Cloud deployment (AWS / Render / Vercel)
+- 😓 Time-consuming
+- 📄 Unorganized
+- ❌ Based on manual searching
 
-👨‍💻 Author
-Rima Kalita
-🎓 MCA Student
-💻 Full Stack Developer (MERN Stack)
-🌐 Passionate about Web Development & Problem Solving
+JobConnect solves this by intelligently matching students with suitable job opportunities based on their skills and interests while providing companies with an efficient hiring platform.
 
-⭐ Show Your Support
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Tailwind CSS
+- JavaScript
+- Framer Motion
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools & Technologies
+- REST APIs
+- Socket.io
+- Git & GitHub
+- Postman
+
+---
+
+## ✨ Features
+
+### 👨‍🎓 Student Module
+
+- AI-based personalized job recommendations
+- Advanced job search & filters
+- Save favorite jobs
+- Apply for jobs
+- Track application status
+- Manage profile & skills
+
+### 🏢 Company Admin Module
+
+- Company authentication
+- Post new job opportunities
+- Manage job listings
+- View applicants
+- Track hiring process
+
+### 🤖 Recommendation System
+
+- Skill-based job matching
+- Personalized recommendations
+- Intelligent ranking algorithm
+- Better job relevance for students
+
+### 🔔 Real-Time System
+
+- Instant job alerts
+- Live notifications
+- Application status updates
+- Real-time communication using Socket.io
+
+### 🔐 Authentication System
+
+- Secure login & registration
+- JWT Authentication
+- Role-based authorization:
+  - Student
+  - Company Admin
+
+---
+
+## 🚀 Future Enhancements
+
+- 🤖 AI Resume Analyzer
+- 📄 Resume Score & Suggestions
+- 📊 Analytics Dashboard
+- 📧 Email Notifications
+- ☁️ AWS / Render Deployment
+- 📱 Progressive Web App (PWA)
+- 🌍 Multi-language Support
+
+---
+
+## 👨‍💻 Author
+
+**Rima Kalita**  
+🎓 MCA Student  
+💻 Full Stack Developer (MERN Stack)  
+🤖 Passionate about AI, Web Development & Problem Solving
+
+---
+
+## ⭐ Show Your Support
+
 If you like this project:
-⭐ Star the repository
-🍴 Fork it
-📢 Share it
 
-📌 Note
-This project is developed for academic + institutional placement management purposes and is continuously improving.
+- ⭐ Star the repository
+- 🍴 Fork it
+- 📢 Share it
 
-## ✍️ About Developer  
+---
+
+## 📌 Note
+
+This project is developed for learning, portfolio, and recruitment purposes. It demonstrates full-stack development, recommendation algorithms, real-time systems, and modern UI/UX using the MERN Stack.
+
+---
+
+# ✍️ About Developer
+
 <h3 align="center">Rima Kalita</h3>
+
 <p align="center">
   <a href="https://github.com/Rima-Kalita">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/rima-kalita-241414221/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-	<a href="https://www.instagram.com/kalopsia.rim_?igsh=MWFkN3pyd3Z4YWdncg==">
+
+  <a href="https://www.instagram.com/kalopsia.rim_?igsh=MWFkN3pyd3Z4YWdncg==">
     <img src="https://img.shields.io/badge/Instagram-F72D3B?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
